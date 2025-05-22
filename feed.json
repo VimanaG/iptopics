@@ -108,6 +108,23 @@
             "date_modified": "2025-05-21T00:08:41+02:00"
         },
         {
+            "id": "https://vimanag.github.io/iptopics/perche-craig-wright-ha-perso-il-caso-bitcoin.html",
+            "url": "https://vimanag.github.io/iptopics/perche-craig-wright-ha-perso-il-caso-bitcoin.html",
+            "title": "Perché Craig Wright ha perso il caso Bitcoin?",
+            "summary": "Il giudice Mellor ha recentemente pubblicato una dettagliata sentenza con le sue&hellip;",
+            "content_html": "<p>Il giudice Mellor ha recentemente pubblicato una dettagliata sentenza con le sue argomentazioni complete in merito alla <strong>controversia sull'identità di Satoshi Nakamoto</strong>, l'inventore del <strong>Bitcoin</strong>.<br>Tale decisione è giunta a seguito del verdetto orale emesso al termine del processo di cinque settimane, in cui il giudice ha stabilito che il dottor Craig Wright non è Satoshi. <br><br>La sentenza rappresenta un duro colpo per il dottor Wright, il quale aveva sostenuto di essere l'autore del Bitcoin White Paper e di aver rilasciato la prima versione del codice sorgente di Bitcoin, oltre ad aver avanzato accuse di violazione del copyright nei confronti di varie parti. <br><br>Tuttavia, il giudice Mellor ha rilevato che Wright ha \"mentito ripetutamente e ampiamente\" in tribunale, utilizzando anche \"tecno-bufale\" e producendo goffe contraffazioni. La decisione del giudice si basa su un \"inequivocabile\" insieme di prove, che ha portato alla conclusione che Wright non è Satoshi. <br><br>Mellor ha esaminato 47 diverse accuse di falsificazione durante il processo, trovandole tutte provate e ha individuato ulteriori casi di documenti non autentici, secondo le relazioni di un esperto forense.<br>Il giudice ha concluso che i tentativi del dottor Wright di dimostrare di essere Satoshi e di rivendicare il copyright del Bitcoin White Paper costituiscono un \"gravissimo abuso\" del processo giudiziario, in quanto ha prodotto deliberatamente documenti falsi per sostenere affermazioni mendaci e ha utilizzato i tribunali come strumento per commettere frode. <br><br>Si tratta di un caso estremamente insolito, caratterizzato da una considerevole mole di prove documentali e da oltre 20 giorni in tribunale.</p>",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "nuove tecnologie",
+                   "notizie brevi",
+                   "copyright"
+            ],
+            "date_published": "2024-06-21T20:48:00+02:00",
+            "date_modified": "2025-05-22T20:48:26+02:00"
+        },
+        {
             "id": "https://vimanag.github.io/iptopics/la-battaglia-per-il-multiplayer-activision-blizzard-condannata-per-violazione-di-brevetti.html",
             "url": "https://vimanag.github.io/iptopics/la-battaglia-per-il-multiplayer-activision-blizzard-condannata-per-violazione-di-brevetti.html",
             "title": "La battaglia per il multiplayer: Activision Blizzard condannata per violazione di brevetti",
@@ -156,23 +173,6 @@
             ],
             "date_published": "2024-06-10T19:56:00+02:00",
             "date_modified": "2025-05-22T19:56:31+02:00"
-        },
-        {
-            "id": "https://vimanag.github.io/iptopics/palworld-e-pokemon-possibile-violazione-di-copyright.html",
-            "url": "https://vimanag.github.io/iptopics/palworld-e-pokemon-possibile-violazione-di-copyright.html",
-            "title": "Palworld e Pokémon: possibile violazione di copyright?",
-            "summary": "Nelle ultime settimane il mondo videoludico è stato scosso dal lancio di&hellip;",
-            "content_html": "<p>Nelle ultime settimane il mondo videoludico è stato scosso dal lancio di <strong>Palworld</strong>, un gioco simile a <strong>Pokémon</strong> ma con l'aggiunta di armi, che ha rapidamente guadagnato popolarità su PC e console Xbox grazie anche al Game Pass.<br>Tuttavia, il successo del gioco è stato accompagnato da polemiche riguardo alle possibili violazioni di copyright, poiché le somiglianze tra i Pal e i Pokemon non sono sfuggite all'occhio attento degli appassionati del settore.<br><br>Il CEO di PocketPair, <em>Takuro Mizobe</em>, ha affrontato direttamente queste critiche durante un'intervista con Automaton-media, fornendo il punto di vista ufficiale della compagnia.<br>Mizobe ha sottolineato che il team di sviluppo ha ottenuto tutte le autorizzazioni necessarie e ha superato i controlli legali richiesti per il lancio del gioco su piattaforme come Steam e Microsoft Store.<br>Inoltre, ha ribadito che non è stata intrapresa alcuna azione legale dalle parti coinvolte, sostenendo così la legittimità del progetto.<br>Il CEO ha anche enfatizzato l'approccio serio e professionale con cui PocketPair realizza i propri videogiochi, sottolineando che non c'è alcuna intenzione di violare la proprietà intellettuale di altre società. <br><br>Mizobe ha invitato coloro che ritengono che Palworld sia una semplice copia di Pokemon a provare il gioco personalmente, sottolineando che offre un'esperienza di gioco molto diversa e unica.<br><br>Il dibattito sulle somiglianze tra Palworld e Pokémon continua a dividere gli appassionati di videogiochi, ma una cosa è certa: il gioco ha suscitato grande interesse e<strong> ha portato l'industria videoludica a riflettere su questioni cruciali legate al copyright e all'originalità delle creazioni videoludiche</strong>.<br>Palworld è destinato a rimanere al centro di discussioni e dibattiti nel mondo videoludico per lungo tempo, mentre i giocatori continuano a esplorare questo universo unico e affascinante. <br><br>Resta da vedere come evolverà questa situazione e se le preoccupazioni riguardo al copyright influenzeranno il futuro del gioco.</p>",
-            "image": "https://vimanag.github.io/iptopics/media/posts/12/palworld.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "videogames",
-                   "copyright"
-            ],
-            "date_published": "2024-01-27T21:07:00+01:00",
-            "date_modified": "2025-05-21T21:07:17+02:00"
         }
     ]
 }

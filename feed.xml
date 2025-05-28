@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-05-25T08:58:12+02:00</updated>
+    <updated>2025-05-29T00:44:22+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>La deregulation delle IA non è innovazione, è saccheggio autorizzato.</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html"/>
+        <id>https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html</id>
+        <media:content url="https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg" medium="image" />
+            <category term="intelligenza artificiale"/>
+            <category term="copyright"/>
+
+        <updated>2025-05-29T00:39:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg" alt="Un numero elevato di numeri binari su una superficie bianca" />
+                    Se il consenso del titolare di copyright rende “non plausibile” un modello&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>In bilico il futuro della normativa UE sui brevetti standard essenziali</title>
         <author>
@@ -171,25 +191,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/5/1738404683079-2.jpg" alt="Logo ufficiale della certificazione &#x27;Human Authored&#x27; dell’Authors Guild, simbolo di autenticità per opere letterarie create da autori umani." />
                     L’evoluzione dell’intelligenza artificiale sta influenzando in modo sempre più incisivo la creazione&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Il Regno Unito alla ricerca di una Via nell’ecosistema IA</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/il-regno-unito-alla-ricerca-di-una-via-nellecosistema-ia.html"/>
-        <id>https://iptopics.com/il-regno-unito-alla-ricerca-di-una-via-nellecosistema-ia.html</id>
-        <media:content url="https://iptopics.com/media/posts/4/UK-AI.png" medium="image" />
-            <category term="intelligenza artificiale"/>
-
-        <updated>2024-12-24T11:02:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/4/UK-AI.png" alt="Il Regno Unito alla ricerca di una Via nell’ecosistema IA" />
-                    Il recente articolo di Angela Daly riportato da "IPkitten" (https://ipkitten.blogspot.com/2024/12/guest-post-ai-training-data-copyright.html) affronta una&hellip;
                 ]]>
             </summary>
         <content></content>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
+            "url": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
+            "title": "La deregulation delle IA non è innovazione, è saccheggio autorizzato.",
+            "summary": "Se il consenso del titolare di copyright rende “non plausibile” un modello&hellip;",
+            "image": "https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "intelligenza artificiale",
+                   "copyright"
+            ],
+            "date_published": "2025-05-29T00:39:55+02:00",
+            "date_modified": "2025-05-29T00:44:22+02:00"
+        },
+        {
             "id": "https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html",
             "url": "https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html",
             "title": "In bilico il futuro della normativa UE sui brevetti standard essenziali",
@@ -145,21 +161,6 @@
             ],
             "date_published": "2025-02-03T11:16:00+01:00",
             "date_modified": "2025-05-20T23:47:04+02:00"
-        },
-        {
-            "id": "https://iptopics.com/il-regno-unito-alla-ricerca-di-una-via-nellecosistema-ia.html",
-            "url": "https://iptopics.com/il-regno-unito-alla-ricerca-di-una-via-nellecosistema-ia.html",
-            "title": "Il Regno Unito alla ricerca di una Via nell’ecosistema IA",
-            "summary": "Il recente articolo di Angela Daly riportato da \"IPkitten\" (https://ipkitten.blogspot.com/2024/12/guest-post-ai-training-data-copyright.html) affronta una&hellip;",
-            "image": "https://iptopics.com/media/posts/4/UK-AI.png",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale"
-            ],
-            "date_published": "2024-12-24T11:02:00+01:00",
-            "date_modified": "2025-05-20T23:44:51+02:00"
         }
     ]
 }

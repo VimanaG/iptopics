@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/dainese-e-alpinestars-davanti-allupc-di-milano-per-due-brevetti-europei.html",
+            "url": "https://iptopics.com/dainese-e-alpinestars-davanti-allupc-di-milano-per-due-brevetti-europei.html",
+            "title": "Dainese e Alpinestars davanti all’UPC di Milano per due brevetti europei",
+            "summary": "La sospensione del giudizio su un solo brevetto, chiesta da entrambe le&hellip;",
+            "image": "https://iptopics.com/media/posts/40/Dainese-e-Alpinestars-davanti-all-UPC.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "brevetti",
+                   "UPC"
+            ],
+            "date_published": "2025-06-02T23:42:26+02:00",
+            "date_modified": "2025-06-03T00:04:54+02:00"
+        },
+        {
             "id": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
             "url": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
             "title": "La deregulation delle IA non è innovazione, è saccheggio autorizzato.",
@@ -145,22 +161,6 @@
             ],
             "date_published": "2025-04-28T08:58:00+02:00",
             "date_modified": "2025-05-25T08:58:12+02:00"
-        },
-        {
-            "id": "https://iptopics.com/la-certificazione-human-authored-dellauthors-guild-contro-linvasione-dei-libri-generati-dallia.html",
-            "url": "https://iptopics.com/la-certificazione-human-authored-dellauthors-guild-contro-linvasione-dei-libri-generati-dallia.html",
-            "title": "La certificazione “Human Authored” dell’Authors Guild contro l’invasione dei libri generati dall’IA",
-            "summary": "L’evoluzione dell’intelligenza artificiale sta influenzando in modo sempre più incisivo la creazione&hellip;",
-            "image": "https://iptopics.com/media/posts/5/1738404683079-2.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale",
-                   "copyright"
-            ],
-            "date_published": "2025-02-03T11:16:00+01:00",
-            "date_modified": "2025-05-20T23:47:04+02:00"
         }
     ]
 }

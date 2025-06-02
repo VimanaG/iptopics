@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-05-29T01:06:15+02:00</updated>
+    <updated>2025-06-03T00:04:54+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Dainese e Alpinestars davanti all’UPC di Milano per due brevetti europei</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/dainese-e-alpinestars-davanti-allupc-di-milano-per-due-brevetti-europei.html"/>
+        <id>https://iptopics.com/dainese-e-alpinestars-davanti-allupc-di-milano-per-due-brevetti-europei.html</id>
+        <media:content url="https://iptopics.com/media/posts/40/Dainese-e-Alpinestars-davanti-all-UPC.jpg" medium="image" />
+            <category term="brevetti"/>
+            <category term="UPC"/>
+
+        <updated>2025-06-02T23:42:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/40/Dainese-e-Alpinestars-davanti-all-UPC.jpg" alt="Due tessere di puzzle beige raffiguranti silhouette nere di motociclisti in sella alle loro moto sono posizionate su un tavolo di legno in un&#x27;aula di tribunale. Sullo sfondo, fuori fuoco, si vedono una bilancia della giustizia e un martello da giudice, che conferiscono un’atmosfera legale e solenne alla scena." />
+                    La sospensione del giudizio su un solo brevetto, chiesta da entrambe le&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>La deregulation delle IA non è innovazione, è saccheggio autorizzato.</title>
         <author>
@@ -171,26 +191,6 @@
             <summary>
                 <![CDATA[
                     Secondo uno studio appena revisionato della Cornell University, gli assistenti di scrittura&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>La certificazione “Human Authored” dell’Authors Guild contro l’invasione dei libri generati dall’IA</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/la-certificazione-human-authored-dellauthors-guild-contro-linvasione-dei-libri-generati-dallia.html"/>
-        <id>https://iptopics.com/la-certificazione-human-authored-dellauthors-guild-contro-linvasione-dei-libri-generati-dallia.html</id>
-        <media:content url="https://iptopics.com/media/posts/5/1738404683079-2.jpg" medium="image" />
-            <category term="intelligenza artificiale"/>
-            <category term="copyright"/>
-
-        <updated>2025-02-03T11:16:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/5/1738404683079-2.jpg" alt="Logo ufficiale della certificazione &#x27;Human Authored&#x27; dell’Authors Guild, simbolo di autenticità per opere letterarie create da autori umani." />
-                    L’evoluzione dell’intelligenza artificiale sta influenzando in modo sempre più incisivo la creazione&hellip;
                 ]]>
             </summary>
         <content></content>

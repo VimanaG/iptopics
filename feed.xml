@@ -3,12 +3,33 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-03T00:04:54+02:00</updated>
+    <updated>2025-06-05T00:20:48+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Il brevetto che minaccia Bitcoin</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html"/>
+        <id>https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html</id>
+        <media:content url="https://iptopics.com/media/posts/41/Il-brevetto-che-minaccia-Bitcoin.jpg" medium="image" />
+            <category term="nuove tecnologie"/>
+            <category term="brevetti"/>
+            <category term="blockchain"/>
+
+        <updated>2025-06-05T00:15:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/41/Il-brevetto-che-minaccia-Bitcoin.jpg" alt="Illustrazione concettuale di minatori digitali che estraggono criptovaluta, contrapposti a strutture imponenti che simboleggiano i brevetti, rappresentando il conflitto tra innovazione open source e proprietà intellettuale." />
+                    Una controversa causa negli Stati Uniti rimette in discussione la neutralità tecnologica&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Dainese e Alpinestars davanti all’UPC di Milano per due brevetti europei</title>
         <author>
@@ -174,23 +195,6 @@
             <summary>
                 <![CDATA[
                     Nel Regno Unito si torna a discutere, finalmente con maggiore cautela, della&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>L’intelligenza artificiale scrive bene, ma per chi?</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/lintelligenza-artificiale-scrive-bene-ma-per-chi.html"/>
-        <id>https://iptopics.com/lintelligenza-artificiale-scrive-bene-ma-per-chi.html</id>
-            <category term="intelligenza artificiale"/>
-
-        <updated>2025-04-28T08:58:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Secondo uno studio appena revisionato della Cornell University, gli assistenti di scrittura&hellip;
                 ]]>
             </summary>
         <content></content>

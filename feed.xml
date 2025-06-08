@@ -3,12 +3,29 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-08T09:52:46+02:00</updated>
+    <updated>2025-06-08T22:31:04+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Mauritius aderisce al Protocollo di Harare</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/mauritius-aderisce-al-protocollo-di-harare.html"/>
+        <id>https://iptopics.com/mauritius-aderisce-al-protocollo-di-harare.html</id>
+            <category term="notizie brevi"/>
+
+        <updated>2025-06-08T22:25:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                    La Repubblica di Mauritius diventerà il 21° membro del Protocollo di Harare,&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Napster segnalato per copyright ma AGCOM decide per l’archiviazione</title>
         <author>
@@ -180,23 +197,6 @@
             <summary>
                 <![CDATA[
                     La decisione del tribunale di Amburgo (UPC_CFI_278/2023) è una di quelle che&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Proposta di legge sul diritto d’autore delle opere fotografiche</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/proposta-di-legge-sul-diritto-dautore-delle-opere-fotografiche.html"/>
-        <id>https://iptopics.com/proposta-di-legge-sul-diritto-dautore-delle-opere-fotografiche.html</id>
-            <category term="diritto d&#x27;autore"/>
-
-        <updated>2025-05-05T08:50:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Il legislatore prova ad aggiornare il diritto d'autore in ambito fotografico, ma&hellip;
                 ]]>
             </summary>
         <content></content>

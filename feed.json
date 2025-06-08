@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/napster-segnalato-per-copyright-ma-agcom-decide-per-larchiviazione.html",
+            "url": "https://iptopics.com/napster-segnalato-per-copyright-ma-agcom-decide-per-larchiviazione.html",
+            "title": "Napster segnalato per copyright ma AGCOM decide per l’archiviazione",
+            "summary": "SIAE denuncia presunte violazioni massive del diritto d’autore, ma per AGCOM il&hellip;",
+            "image": "https://iptopics.com/media/posts/42/Napster-AGCOM-SIAE.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "musica",
+                   "diritto d&#x27;autore"
+            ],
+            "date_published": "2025-06-06T11:40:07+02:00",
+            "date_modified": "2025-06-08T09:52:46+02:00"
+        },
+        {
             "id": "https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html",
             "url": "https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html",
             "title": "Il brevetto che minaccia Bitcoin",
@@ -25,7 +41,7 @@
                    "blockchain"
             ],
             "date_published": "2025-06-05T00:15:39+02:00",
-            "date_modified": "2025-06-05T00:20:48+02:00"
+            "date_modified": "2025-06-05T22:44:39+02:00"
         },
         {
             "id": "https://iptopics.com/dainese-e-alpinestars-davanti-allupc-di-milano-per-due-brevetti-europei.html",
@@ -41,7 +57,7 @@
                    "UPC"
             ],
             "date_published": "2025-06-02T23:42:26+02:00",
-            "date_modified": "2025-06-05T00:16:39+02:00"
+            "date_modified": "2025-06-05T22:45:04+02:00"
         },
         {
             "id": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
@@ -149,21 +165,6 @@
             ],
             "date_published": "2025-05-05T08:50:00+02:00",
             "date_modified": "2025-05-25T08:50:23+02:00"
-        },
-        {
-            "id": "https://iptopics.com/regolamentare-lia-in-uk-il-governo-fa-marcia-indietro-sullopt-out-del-copyright.html",
-            "url": "https://iptopics.com/regolamentare-lia-in-uk-il-governo-fa-marcia-indietro-sullopt-out-del-copyright.html",
-            "title": "Regolamentare l’IA in UK: il governo fa marcia indietro sull’opt-out del copyright",
-            "summary": "Nel Regno Unito si torna a discutere, finalmente con maggiore cautela, della&hellip;",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale",
-                   "copyright"
-            ],
-            "date_published": "2025-05-04T08:56:00+02:00",
-            "date_modified": "2025-05-25T08:56:26+02:00"
         }
     ]
 }

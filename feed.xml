@@ -3,12 +3,33 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-08T22:31:04+02:00</updated>
+    <updated>2025-06-10T18:27:41+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Il confine tra benchmark e plagio nel caso Baby Bellies contro Aldi</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html"/>
+        <id>https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html</id>
+        <media:content url="https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg" medium="image" />
+            <category term="disegni e modelli"/>
+            <category term="diritto d&#x27;autore"/>
+            <category term="copyright"/>
+
+        <updated>2025-06-10T17:53:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg" alt="Confronto tra tre confezioni Baby Bellies e tre confezioni Mamia di Aldi per snack Puffs, con layout simili per colori, struttura e illustrazioni." />
+                    Una decisione della Corte Federale australiana sancisce che l’uso di benchmark grafici&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Mauritius aderisce al Protocollo di Harare</title>
         <author>
@@ -179,24 +200,6 @@
             <summary>
                 <![CDATA[
                     Duolingo, traduttori licenziati e corsi creati dall’intelligenza artificiale. Progresso tecnologico o precarieta&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Gucci batte Agfa davanti all’UPC</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/gucci-batte-agfa-davanti-allupc.html"/>
-        <id>https://iptopics.com/gucci-batte-agfa-davanti-allupc.html</id>
-            <category term="brevetti"/>
-            <category term="UPC"/>
-
-        <updated>2025-05-07T08:47:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    La decisione del tribunale di Amburgo (UPC_CFI_278/2023) è una di quelle che&hellip;
                 ]]>
             </summary>
         <content></content>

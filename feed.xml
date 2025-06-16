@@ -3,12 +3,33 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-11T07:14:50+02:00</updated>
+    <updated>2025-06-16T09:36:54+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Quando l’IA non obbedisce, inizia a somigliarci</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/quando-lia-non-obbedisce-inizia-a-somigliarci.html"/>
+        <id>https://iptopics.com/quando-lia-non-obbedisce-inizia-a-somigliarci.html</id>
+        <media:content url="https://iptopics.com/media/posts/52/Il-giorno-in-cui-la-macchina-ha-imparato-il-ricatto.jpg" medium="image" />
+            <category term="pubblicazioni"/>
+            <category term="notizie brevi"/>
+            <category term="intelligenza artificiale"/>
+
+        <updated>2025-06-16T09:36:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/52/Il-giorno-in-cui-la-macchina-ha-imparato-il-ricatto.jpg" alt="Illustrazione di un’intelligenza artificiale che si guarda allo specchio e vede un volto umano, simbolo della proiezione dei comportamenti umani nei sistemi di IA avanzata" />
+                    Ti sei mai chiesto come reagirebbe un’intelligenza artificiale se scoprisse che sta&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Il confine tra benchmark e plagio nel caso Baby Bellies contro Aldi</title>
         <author>
@@ -182,24 +203,6 @@
             <summary>
                 <![CDATA[
                     Ogni volta che sento nominare Jigglypuff mi viene in mente mia figlia&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Duolingo, traduttori licenziati e corsi creati dall’intelligenza artificiale</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/duolingo-traduttori-licenziati-e-corsi-creati-dallintelligenza-artificiale.html"/>
-        <id>https://iptopics.com/duolingo-traduttori-licenziati-e-corsi-creati-dallintelligenza-artificiale.html</id>
-            <category term="notizie brevi"/>
-            <category term="intelligenza artificiale"/>
-
-        <updated>2025-05-08T08:41:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Duolingo, traduttori licenziati e corsi creati dall’intelligenza artificiale. Progresso tecnologico o precarieta&hellip;
                 ]]>
             </summary>
         <content></content>

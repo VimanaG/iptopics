@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
+            "url": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
+            "title": "Fedeltà aziendale e silenzio forzato su LinkedIn",
+            "summary": "Hai mai avuto paura di cliccare “like” su LinkedIn? Succede. Sempre più&hellip;",
+            "image": "https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "pubblicazioni"
+            ],
+            "date_published": "2025-06-21T10:21:22+02:00",
+            "date_modified": "2025-06-21T10:23:51+02:00"
+        },
+        {
             "id": "https://iptopics.com/fortnite-cheat-distrugge-il-fair-play-mondiale-e-epic-games-cita-in-giudizio-i-creatori-di-vanta-cheats.html",
             "url": "https://iptopics.com/fortnite-cheat-distrugge-il-fair-play-mondiale-e-epic-games-cita-in-giudizio-i-creatori-di-vanta-cheats.html",
             "title": "Fortnite cheat distrugge il fair play mondiale e Epic Games cita in giudizio i creatori di Vanta Cheats",
@@ -154,22 +169,6 @@
             ],
             "date_published": "2025-05-23T16:46:21+02:00",
             "date_modified": "2025-05-23T16:46:21+02:00"
-        },
-        {
-            "id": "https://iptopics.com/gta-6-le-tecnologie-brevettate-che-rivoluzionano-gli-open-world.html",
-            "url": "https://iptopics.com/gta-6-le-tecnologie-brevettate-che-rivoluzionano-gli-open-world.html",
-            "title": "GTA 6: le tecnologie brevettate che rivoluzionano gli open world",
-            "summary": "I dieci brevetti di Rockstar Games svelano un progetto ambizioso: rendere GTA&hellip;",
-            "image": "https://iptopics.com/media/posts/28/GTA6-brevetti.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "videogames",
-                   "brevetti"
-            ],
-            "date_published": "2025-05-23T16:29:04+02:00",
-            "date_modified": "2025-05-23T16:46:40+02:00"
         }
     ]
 }

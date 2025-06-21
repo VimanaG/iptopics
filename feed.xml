@@ -3,12 +3,31 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-21T09:29:53+02:00</updated>
+    <updated>2025-06-21T10:23:51+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Fedeltà aziendale e silenzio forzato su LinkedIn</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html"/>
+        <id>https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html</id>
+        <media:content url="https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg" medium="image" />
+            <category term="pubblicazioni"/>
+
+        <updated>2025-06-21T10:21:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg" alt="Quando la fedeltà aziendale zittisce la libertà professionale" />
+                    Hai mai avuto paura di cliccare “like” su LinkedIn? Succede. Sempre più&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Fortnite cheat distrugge il fair play mondiale e Epic Games cita in giudizio i creatori di Vanta Cheats</title>
         <author>
@@ -185,26 +204,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/29/SEP-EU.jpg" alt="Il commissario europeo all&#x27;Industria Séjourné si rivolge ai governi dopo l&#x27;abbandono della proposta" />
                     Lo stop della Commissione europea alla proposta sui SEP solleva critiche e&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>GTA 6: le tecnologie brevettate che rivoluzionano gli open world</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/gta-6-le-tecnologie-brevettate-che-rivoluzionano-gli-open-world.html"/>
-        <id>https://iptopics.com/gta-6-le-tecnologie-brevettate-che-rivoluzionano-gli-open-world.html</id>
-        <media:content url="https://iptopics.com/media/posts/28/GTA6-brevetti.jpg" medium="image" />
-            <category term="videogames"/>
-            <category term="brevetti"/>
-
-        <updated>2025-05-23T16:29:04+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/28/GTA6-brevetti.jpg" alt="Rockstar rivoluziona gli open world rivelando i brevetti dietro a GTA 6" />
-                    I dieci brevetti di Rockstar Games svelano un progetto ambizioso: rendere GTA&hellip;
                 ]]>
             </summary>
         <content></content>

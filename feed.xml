@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-21T10:23:51+02:00</updated>
+    <updated>2025-06-22T11:10:04+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Chi ha diritto a chiamarsi io?</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html"/>
+        <id>https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html</id>
+        <media:content url="https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg" medium="image" />
+            <category term="nuove tecnologie"/>
+            <category term="marchi"/>
+
+        <updated>2025-06-22T10:53:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg" alt="Due profili umani si fronteggiano con un tassello mancante nella testa, mentre un pezzo di puzzle fluttua tra loro suggerendo un’identità condivisa o contesa." />
+                    La causa IYO vs OpenAI mostra il volto contraddittorio della proprietà industriale&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Fedeltà aziendale e silenzio forzato su LinkedIn</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg" alt="Un numero elevato di numeri binari su una superficie bianca" />
                     Se il consenso del titolare di copyright rende “non plausibile” un modello&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>In bilico il futuro della normativa UE sui brevetti standard essenziali</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html"/>
-        <id>https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html</id>
-        <media:content url="https://iptopics.com/media/posts/29/SEP-EU.jpg" medium="image" />
-            <category term="brevetti"/>
-            <category term="SEP"/>
-
-        <updated>2025-05-23T16:46:21+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/29/SEP-EU.jpg" alt="Il commissario europeo all&#x27;Industria Séjourné si rivolge ai governi dopo l&#x27;abbandono della proposta" />
-                    Lo stop della Commissione europea alla proposta sui SEP solleva critiche e&hellip;
                 ]]>
             </summary>
         <content></content>

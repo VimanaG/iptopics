@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
+            "url": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
+            "title": "Chi ha diritto a chiamarsi io?",
+            "summary": "La causa IYO vs OpenAI mostra il volto contraddittorio della proprietà industriale&hellip;",
+            "image": "https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "nuove tecnologie",
+                   "marchi"
+            ],
+            "date_published": "2025-06-22T10:53:40+02:00",
+            "date_modified": "2025-06-22T11:10:04+02:00"
+        },
+        {
             "id": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
             "url": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
             "title": "Fedeltà aziendale e silenzio forzato su LinkedIn",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2025-05-29T00:39:55+02:00",
             "date_modified": "2025-05-29T01:06:15+02:00"
-        },
-        {
-            "id": "https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html",
-            "url": "https://iptopics.com/in-bilico-il-futuro-della-normativa-ue-sui-brevetti-standard-essenziali.html",
-            "title": "In bilico il futuro della normativa UE sui brevetti standard essenziali",
-            "summary": "Lo stop della Commissione europea alla proposta sui SEP solleva critiche e&hellip;",
-            "image": "https://iptopics.com/media/posts/29/SEP-EU.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "brevetti",
-                   "SEP"
-            ],
-            "date_published": "2025-05-23T16:46:21+02:00",
-            "date_modified": "2025-05-23T16:46:21+02:00"
         }
     ]
 }

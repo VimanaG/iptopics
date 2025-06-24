@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html",
+            "url": "https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html",
+            "title": "Mureka AI promette musica senza copyright. Rivoluzione o causa legale in arrivo?",
+            "summary": "Clonare musica senza rischi di copyright è il nuovo sport estremo del&hellip;",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "notizie brevi",
+                   "musica",
+                   "copyright"
+            ],
+            "date_published": "2025-06-24T07:44:28+02:00",
+            "date_modified": "2025-06-24T07:44:28+02:00"
+        },
+        {
             "id": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
             "url": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
             "title": "Chi ha diritto a chiamarsi io?",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2025-06-02T23:42:26+02:00",
             "date_modified": "2025-06-05T22:45:04+02:00"
-        },
-        {
-            "id": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
-            "url": "https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html",
-            "title": "La deregulation delle IA non è innovazione, è saccheggio autorizzato.",
-            "summary": "Se il consenso del titolare di copyright rende “non plausibile” un modello&hellip;",
-            "image": "https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale",
-                   "copyright"
-            ],
-            "date_published": "2025-05-29T00:39:55+02:00",
-            "date_modified": "2025-05-29T01:06:15+02:00"
         }
     ]
 }

@@ -3,12 +3,31 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-22T23:55:17+02:00</updated>
+    <updated>2025-06-24T07:44:28+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Mureka AI promette musica senza copyright. Rivoluzione o causa legale in arrivo?</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html"/>
+        <id>https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html</id>
+            <category term="notizie brevi"/>
+            <category term="musica"/>
+            <category term="copyright"/>
+
+        <updated>2025-06-24T07:44:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Clonare musica senza rischi di copyright è il nuovo sport estremo del&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Chi ha diritto a chiamarsi io?</title>
         <author>
@@ -184,26 +203,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/40/Dainese-e-Alpinestars-davanti-all-UPC.jpg" alt="Due tessere di puzzle beige raffiguranti silhouette nere di motociclisti in sella alle loro moto sono posizionate su un tavolo di legno in un&#x27;aula di tribunale. Sullo sfondo, fuori fuoco, si vedono una bilancia della giustizia e un martello da giudice, che conferiscono un’atmosfera legale e solenne alla scena." />
                     La sospensione del giudizio su un solo brevetto, chiesta da entrambe le&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>La deregulation delle IA non è innovazione, è saccheggio autorizzato.</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html"/>
-        <id>https://iptopics.com/la-deregulation-delle-ia-non-e-innovazione-e-saccheggio-autorizzato.html</id>
-        <media:content url="https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg" medium="image" />
-            <category term="intelligenza artificiale"/>
-            <category term="copyright"/>
-
-        <updated>2025-05-29T00:39:55+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/39/steve-johnson-VVxQEpum11g-unsplash.jpg" alt="Un numero elevato di numeri binari su una superficie bianca" />
-                    Se il consenso del titolare di copyright rende “non plausibile” un modello&hellip;
                 ]]>
             </summary>
         <content></content>

@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-25T23:57:42+02:00</updated>
+    <updated>2025-06-29T10:50:59+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Brevetti farmaceutici e il patto faustiano dell’Europa moderna</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html"/>
+        <id>https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html</id>
+        <media:content url="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" medium="image" />
+            <category term="riflessioni"/>
+            <category term="brevetti"/>
+
+        <updated>2025-06-29T09:24:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" alt="Illustrazione concettuale del patto tra industria farmaceutica e Unione Europea, con una stretta di mano simbolica tra un uomo d&#x27;affari e una figura demoniaca, sullo sfondo della mappa dell’Europa e simboli di farmaci e brevetti." />
+                    Possiamo davvero accettare che la salute, bisogno primario e diritto naturale dell’uomo,&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>DNS4EU, la sovranità digitale passa da qui</title>
         <author>
@@ -182,27 +202,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/42/Napster-AGCOM-SIAE.jpg" alt="Fotografia concettuale con chitarra, spartito musicale e cuffie, a simboleggiare la musica digitale e il caso Napster tra legalità e copyright." />
                     SIAE denuncia presunte violazioni massive del diritto d’autore, ma per AGCOM il&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Il brevetto che minaccia Bitcoin</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html"/>
-        <id>https://iptopics.com/il-brevetto-che-minaccia-bitcoin.html</id>
-        <media:content url="https://iptopics.com/media/posts/41/Il-brevetto-che-minaccia-Bitcoin.jpg" medium="image" />
-            <category term="nuove tecnologie"/>
-            <category term="brevetti"/>
-            <category term="blockchain"/>
-
-        <updated>2025-06-05T00:15:39+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/41/Il-brevetto-che-minaccia-Bitcoin.jpg" alt="Illustrazione concettuale di minatori digitali che estraggono criptovaluta, contrapposti a strutture imponenti che simboleggiano i brevetti, rappresentando il conflitto tra innovazione open source e proprietà intellettuale." />
-                    Una controversa causa negli Stati Uniti rimette in discussione la neutralità tecnologica&hellip;
                 ]]>
             </summary>
         <content></content>

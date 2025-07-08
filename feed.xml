@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-06-30T10:01:24+02:00</updated>
+    <updated>2025-07-08T11:25:43+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>L’infanzia al tempo dell’intelligenza artificiale</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/linfanzia-al-tempo-dellintelligenza-artificiale.html"/>
+        <id>https://iptopics.com/linfanzia-al-tempo-dellintelligenza-artificiale.html</id>
+        <media:content url="https://iptopics.com/media/posts/62/infanzia-al-tempo-dell-intelligenza-artificiale.jpg" medium="image" />
+            <category term="nuove tecnologie"/>
+            <category term="intelligenza artificiale"/>
+
+        <updated>2025-07-08T10:25:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/62/infanzia-al-tempo-dell-intelligenza-artificiale.jpg" alt="Bambina seduta a un tavolo di legno in un soggiorno caldo e accogliente, concentrata su un tablet mentre grafiche digitali blu rappresentano un cervello e circuiti accanto a lei, simbolo dell’intelligenza artificiale che la accompagna." />
+                    C’è un silenzio particolare che accompagna la crescita dei bambini di oggi.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Brevetti farmaceutici e il patto faustiano dell’Europa moderna</title>
         <author>
@@ -182,26 +202,6 @@
             <summary>
                 <![CDATA[
                     La Repubblica di Mauritius diventerà il 21° membro del Protocollo di Harare,&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Napster segnalato per copyright ma AGCOM decide per l’archiviazione</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/napster-segnalato-per-copyright-ma-agcom-decide-per-larchiviazione.html"/>
-        <id>https://iptopics.com/napster-segnalato-per-copyright-ma-agcom-decide-per-larchiviazione.html</id>
-        <media:content url="https://iptopics.com/media/posts/42/Napster-AGCOM-SIAE.jpg" medium="image" />
-            <category term="musica"/>
-            <category term="diritto d&#x27;autore"/>
-
-        <updated>2025-06-06T11:40:07+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/42/Napster-AGCOM-SIAE.jpg" alt="Fotografia concettuale con chitarra, spartito musicale e cuffie, a simboleggiare la musica digitale e il caso Napster tra legalità e copyright." />
-                    SIAE denuncia presunte violazioni massive del diritto d’autore, ma per AGCOM il&hellip;
                 ]]>
             </summary>
         <content></content>

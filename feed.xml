@@ -3,7 +3,7 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-07-08T13:47:26+02:00</updated>
+    <updated>2025-07-08T13:50:48+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://iptopics.com/linfanzia-al-tempo-dellintelligenza-artificiale.html"/>
         <id>https://iptopics.com/linfanzia-al-tempo-dellintelligenza-artificiale.html</id>
         <media:content url="https://iptopics.com/media/posts/62/infanzia-al-tempo-dell-intelligenza-artificiale.jpg" medium="image" />
+            <category term="riflessioni"/>
             <category term="nuove tecnologie"/>
             <category term="intelligenza artificiale"/>
 

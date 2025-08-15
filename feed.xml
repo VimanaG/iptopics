@@ -3,12 +3,31 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-08-07T16:36:50+02:00</updated>
+    <updated>2025-08-15T08:46:12+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Brevetti e “intenzione genuina” in Cina tra apertura e controllo</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html"/>
+        <id>https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html</id>
+        <media:content url="https://iptopics.com/media/posts/63/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.jpg" medium="image" />
+            <category term="brevetti"/>
+
+        <updated>2025-08-15T08:22:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/63/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.jpg" alt="Illustrazione stilizzata della mappa della Cina con una serie di documenti allineati: alcuni rossi, uno dei quali dietro sbarre, seguiti da documenti grigi con segno di spunta. Simboleggia il filtraggio delle richieste di invalidazione dei brevetti da parte della CNIPA." />
+                    Chi lavora da anni nel settore della proprietà industriale sa che dietro&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>L’infanzia al tempo dell’intelligenza artificiale</title>
         <author>
@@ -186,23 +205,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg" alt="Confronto tra tre confezioni Baby Bellies e tre confezioni Mamia di Aldi per snack Puffs, con layout simili per colori, struttura e illustrazioni." />
                     Una decisione della Corte Federale australiana sancisce che l’uso di benchmark grafici&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mauritius aderisce al Protocollo di Harare</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/mauritius-aderisce-al-protocollo-di-harare.html"/>
-        <id>https://iptopics.com/mauritius-aderisce-al-protocollo-di-harare.html</id>
-            <category term="notizie brevi"/>
-
-        <updated>2025-06-08T22:25:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                    La Repubblica di Mauritius diventerà il 21° membro del Protocollo di Harare,&hellip;
                 ]]>
             </summary>
         <content></content>

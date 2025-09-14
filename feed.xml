@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-08-15T08:46:12+02:00</updated>
+    <updated>2025-09-14T16:55:53+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Il tempo rubato della conoscenza nella causa Enciclopedia Britannica contro Perplexity AI </title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html"/>
+        <id>https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html</id>
+        <media:content url="https://iptopics.com/media/posts/64/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.jpg" medium="image" />
+            <category term="intelligenza artificiale"/>
+            <category term="copyright"/>
+
+        <updated>2025-09-14T11:49:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/64/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.jpg" alt="Illustrazione simbolica con volumi dell’Enciclopedia Britannica, clessidra e profilo digitale di intelligenza artificiale, a rappresentare la disputa legale e culturale tra sapere umano e sintesi algoritmica." />
+                    “Viviamo tempi in cui la tecnica non si limita più a servire&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Brevetti e “intenzione genuina” in Cina tra apertura e controllo</title>
         <author>
@@ -184,27 +204,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/52/Il-giorno-in-cui-la-macchina-ha-imparato-il-ricatto.jpg" alt="Illustrazione di un’intelligenza artificiale che si guarda allo specchio e vede un volto umano, simbolo della proiezione dei comportamenti umani nei sistemi di IA avanzata" />
                     Ti sei mai chiesto come reagirebbe un’intelligenza artificiale se scoprisse che sta&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Il confine tra benchmark e plagio nel caso Baby Bellies contro Aldi</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html"/>
-        <id>https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html</id>
-        <media:content url="https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg" medium="image" />
-            <category term="disegni e modelli"/>
-            <category term="diritto d&#x27;autore"/>
-            <category term="copyright"/>
-
-        <updated>2025-06-10T17:53:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg" alt="Confronto tra tre confezioni Baby Bellies e tre confezioni Mamia di Aldi per snack Puffs, con layout simili per colori, struttura e illustrazioni." />
-                    Una decisione della Corte Federale australiana sancisce che l’uso di benchmark grafici&hellip;
                 ]]>
             </summary>
         <content></content>

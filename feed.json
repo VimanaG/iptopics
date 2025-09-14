@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html",
+            "url": "https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html",
+            "title": "Il tempo rubato della conoscenza nella causa Enciclopedia Britannica contro Perplexity AI ",
+            "summary": "“Viviamo tempi in cui la tecnica non si limita più a servire&hellip;",
+            "image": "https://iptopics.com/media/posts/64/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "intelligenza artificiale",
+                   "copyright"
+            ],
+            "date_published": "2025-09-14T11:49:24+02:00",
+            "date_modified": "2025-09-14T16:55:53+02:00"
+        },
+        {
             "id": "https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html",
             "url": "https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html",
             "title": "Brevetti e “intenzione genuina” in Cina tra apertura e controllo",
@@ -153,23 +169,6 @@
             ],
             "date_published": "2025-06-16T09:36:02+02:00",
             "date_modified": "2025-06-16T14:16:27+02:00"
-        },
-        {
-            "id": "https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html",
-            "url": "https://iptopics.com/il-confine-tra-benchmark-e-plagio-nel-caso-baby-bellies-contro-aldi.html",
-            "title": "Il confine tra benchmark e plagio nel caso Baby Bellies contro Aldi",
-            "summary": "Una decisione della Corte Federale australiana sancisce che l’uso di benchmark grafici&hellip;",
-            "image": "https://iptopics.com/media/posts/51/Little-Bellies-sfida-Aldi.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "disegni e modelli",
-                   "diritto d&#x27;autore",
-                   "copyright"
-            ],
-            "date_published": "2025-06-10T17:53:57+02:00",
-            "date_modified": "2025-06-11T07:14:50+02:00"
         }
     ]
 }

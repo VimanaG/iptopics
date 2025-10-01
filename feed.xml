@@ -3,12 +3,33 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-10-01T10:20:58+02:00</updated>
+    <updated>2025-10-01T18:45:15+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Brevetti europei: da oggi si vede a colori (finalmente!)</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.html"/>
+        <id>https://iptopics.com/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.html</id>
+        <media:content url="https://iptopics.com/media/posts/66/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.jpg" medium="image" />
+            <category term="notizie brevi"/>
+            <category term="brevetti"/>
+            <category term="EPO"/>
+
+        <updated>2025-10-01T18:31:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/66/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.jpg" alt="Cover con mappa d’Europa e bandiera UE, documento ‘EPO European patent’ e tavole tecniche a colori; titolo: ‘Brevetti europei: ora a colori’." />
+                    Una notizia che mi entusiasma: da oggi, 1° ottobre 2025, l’EPO accetta&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Melitta Bentz e il brevetto che diede forma al filtro del caffè</title>
         <author>
@@ -184,26 +205,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg" alt="Quando la fedeltà aziendale zittisce la libertà professionale" />
                     Hai mai avuto paura di cliccare “like” su LinkedIn? Succede. Sempre più&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Fortnite cheat distrugge il fair play mondiale e Epic Games cita in giudizio i creatori di Vanta Cheats</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/fortnite-cheat-distrugge-il-fair-play-mondiale-e-epic-games-cita-in-giudizio-i-creatori-di-vanta-cheats.html"/>
-        <id>https://iptopics.com/fortnite-cheat-distrugge-il-fair-play-mondiale-e-epic-games-cita-in-giudizio-i-creatori-di-vanta-cheats.html</id>
-        <media:content url="https://iptopics.com/media/posts/53/Fortnite-Vanta-cheat.jpg" medium="image" />
-            <category term="videogames"/>
-            <category term="copyright"/>
-
-        <updated>2025-06-19T21:37:20+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/53/Fortnite-Vanta-cheat.jpg" alt="Giocatrice in Fortnite con cheat Vanta attivi visibili nell’interfaccia di gioco." />
-                    Epic Games ha intentato una causa esplosiva contro sviluppatori e rivenditori di&hellip;
                 ]]>
             </summary>
         <content></content>

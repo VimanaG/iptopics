@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-10-02T20:15:13+02:00</updated>
+    <updated>2025-10-26T08:30:12+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Chi scrive davvero su Wikipedia? La crisi della verità nell’era dell’IA</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html"/>
+        <id>https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html</id>
+        <media:content url="https://iptopics.com/media/posts/67/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.jpg" medium="image" />
+            <category term="riflessioni"/>
+            <category term="intelligenza artificiale"/>
+
+        <updated>2025-10-26T08:04:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/67/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.jpg" alt="Illustrazione che mostra il logo di Wikipedia di fronte a una testa umana con circuiti e la scritta “AI”, simbolo dello scontro tra intelligenza artificiale e verità enciclopedica." />
+                    Caro lettore, oggi vorrei raccontarti una storia. Non è lunga, non è&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Brevetti europei: da oggi si vede a colori (finalmente!)</title>
         <author>
@@ -186,25 +206,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg" alt="Due profili umani si fronteggiano con un tassello mancante nella testa, mentre un pezzo di puzzle fluttua tra loro suggerendo un’identità condivisa o contesa." />
                     La causa IYO vs OpenAI mostra il volto contraddittorio della proprietà industriale&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Fedeltà aziendale e silenzio forzato su LinkedIn</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html"/>
-        <id>https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html</id>
-        <media:content url="https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg" medium="image" />
-            <category term="pubblicazioni"/>
-
-        <updated>2025-06-21T10:21:22+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg" alt="Quando la fedeltà aziendale zittisce la libertà professionale" />
-                    Hai mai avuto paura di cliccare “like” su LinkedIn? Succede. Sempre più&hellip;
                 ]]>
             </summary>
         <content></content>

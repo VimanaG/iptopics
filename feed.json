@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html",
+            "url": "https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html",
+            "title": "Chi scrive davvero su Wikipedia? La crisi della verità nell’era dell’IA",
+            "summary": "Caro lettore, oggi vorrei raccontarti una storia. Non è lunga, non è&hellip;",
+            "image": "https://iptopics.com/media/posts/67/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "riflessioni",
+                   "intelligenza artificiale"
+            ],
+            "date_published": "2025-10-26T08:04:56+01:00",
+            "date_modified": "2025-10-26T08:30:12+01:00"
+        },
+        {
             "id": "https://iptopics.com/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.html",
             "url": "https://iptopics.com/brevetti-europei-da-oggi-si-vede-a-colori-finalmente.html",
             "title": "Brevetti europei: da oggi si vede a colori (finalmente!)",
@@ -155,21 +171,6 @@
             ],
             "date_published": "2025-06-22T10:53:40+02:00",
             "date_modified": "2025-06-22T23:55:17+02:00"
-        },
-        {
-            "id": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
-            "url": "https://iptopics.com/fedelta-aziendale-e-silenzio-forzato-su-linkedin.html",
-            "title": "Fedeltà aziendale e silenzio forzato su LinkedIn",
-            "summary": "Hai mai avuto paura di cliccare “like” su LinkedIn? Succede. Sempre più&hellip;",
-            "image": "https://iptopics.com/media/posts/54/Quando-la-fedelta-aziendale-zittisce-la-liberta-professionale.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "pubblicazioni"
-            ],
-            "date_published": "2025-06-21T10:21:22+02:00",
-            "date_modified": "2025-06-21T10:23:51+02:00"
         }
     ]
 }

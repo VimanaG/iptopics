@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-10-26T08:30:12+01:00</updated>
+    <updated>2025-12-08T16:48:25+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Fusione, magneti e l’arte di contenere il mondo</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/fusione-magneti-e-larte-di-contenere-il-mondo.html"/>
+        <id>https://iptopics.com/fusione-magneti-e-larte-di-contenere-il-mondo.html</id>
+            <category term="riflessioni"/>
+            <category term="ricerca"/>
+            <category term="pubblicazioni"/>
+            <category term="nuove tecnologie"/>
+
+        <updated>2025-12-08T16:48:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Quando senti parlare di fusione nucleare, la prima parola che ti attraversa&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Chi scrive davvero su Wikipedia? La crisi della verità nell’era dell’IA</title>
         <author>
@@ -186,26 +206,6 @@
             <summary>
                 <![CDATA[
                     Clonare musica senza rischi di copyright è il nuovo sport estremo del&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Chi ha diritto a chiamarsi io?</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html"/>
-        <id>https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html</id>
-        <media:content url="https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg" medium="image" />
-            <category term="nuove tecnologie"/>
-            <category term="marchi"/>
-
-        <updated>2025-06-22T10:53:40+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg" alt="Due profili umani si fronteggiano con un tassello mancante nella testa, mentre un pezzo di puzzle fluttua tra loro suggerendo un’identità condivisa o contesa." />
-                    La causa IYO vs OpenAI mostra il volto contraddittorio della proprietà industriale&hellip;
                 ]]>
             </summary>
         <content></content>

@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/fusione-magneti-e-larte-di-contenere-il-mondo.html",
+            "url": "https://iptopics.com/fusione-magneti-e-larte-di-contenere-il-mondo.html",
+            "title": "Fusione, magneti e l’arte di contenere il mondo",
+            "summary": "Quando senti parlare di fusione nucleare, la prima parola che ti attraversa&hellip;",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "riflessioni",
+                   "ricerca",
+                   "pubblicazioni",
+                   "nuove tecnologie"
+            ],
+            "date_published": "2025-12-08T16:48:25+01:00",
+            "date_modified": "2025-12-08T16:48:25+01:00"
+        },
+        {
             "id": "https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html",
             "url": "https://iptopics.com/chi-scrive-davvero-su-wikipedia-la-crisi-della-verita-nellera-dellia.html",
             "title": "Chi scrive davvero su Wikipedia? La crisi della verità nell’era dell’IA",
@@ -155,22 +172,6 @@
             ],
             "date_published": "2025-06-24T07:44:28+02:00",
             "date_modified": "2025-06-24T07:44:28+02:00"
-        },
-        {
-            "id": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
-            "url": "https://iptopics.com/chi-ha-diritto-a-chiamarsi-io.html",
-            "title": "Chi ha diritto a chiamarsi io?",
-            "summary": "La causa IYO vs OpenAI mostra il volto contraddittorio della proprietà industriale&hellip;",
-            "image": "https://iptopics.com/media/posts/55/Chi-ha-diritto-a-chiamarsi-io.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "nuove tecnologie",
-                   "marchi"
-            ],
-            "date_published": "2025-06-22T10:53:40+02:00",
-            "date_modified": "2025-06-22T23:55:17+02:00"
         }
     ]
 }

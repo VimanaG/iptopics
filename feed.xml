@@ -3,12 +3,33 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2025-12-08T16:48:25+01:00</updated>
+    <updated>2026-01-11T11:13:27+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Brevetti e GenAI tra concorrenza e quiete armata</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/brevetti-e-genai-tra-concorrenza-e-quiete-armata.html"/>
+        <id>https://iptopics.com/brevetti-e-genai-tra-concorrenza-e-quiete-armata.html</id>
+        <media:content url="https://iptopics.com/media/posts/69/Brevett-e-GenAI-tra-concorrenza-e-quiete-armata.jpg" medium="image" />
+            <category term="intelligenza artificiale"/>
+            <category term="brevetti"/>
+            <category term="WIPO/OMPI"/>
+
+        <updated>2026-01-11T10:11:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/69/Brevett-e-GenAI-tra-concorrenza-e-quiete-armata.jpg" alt="Illustrazione vettoriale che rappresenta l’equilibrio tra brevetti e intelligenza artificiale generativa, con una bilancia che contrappone un lucchetto simbolo di diritti di esclusiva e un cervello digitale, metafora della deterrenza brevettuale nella GenAI." />
+                    Da fuori sembra quiete: niente guerre brevettuali fragorose, nessun duello pubblico tra&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Fusione, magneti e l’arte di contenere il mondo</title>
         <author>
@@ -187,25 +208,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/60/DNS4EU-la-sovranita-digitale-passa-da-qui.jpg" alt="Illustrazione concettuale della sovranità digitale europea con simboli di sicurezza informatica, DNS, connessione internet e protezione dei dati, rappresentativi del progetto DNS4EU." />
                     «Là dove si perde la sovranità, si perde anche la libertà.» —&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mureka AI promette musica senza copyright. Rivoluzione o causa legale in arrivo?</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html"/>
-        <id>https://iptopics.com/mureka-ai-promette-musica-senza-copyright-rivoluzione-o-causa-legale-in-arrivo.html</id>
-            <category term="notizie brevi"/>
-            <category term="musica"/>
-            <category term="copyright"/>
-
-        <updated>2025-06-24T07:44:28+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Clonare musica senza rischi di copyright è il nuovo sport estremo del&hellip;
                 ]]>
             </summary>
         <content></content>

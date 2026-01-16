@@ -3,12 +3,31 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-01-11T11:13:27+01:00</updated>
+    <updated>2026-01-16T10:08:37+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Il quadrato di Ritter Sport sotto esame</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/il-quadrato-di-ritter-sport-sotto-esame.html"/>
+        <id>https://iptopics.com/il-quadrato-di-ritter-sport-sotto-esame.html</id>
+        <media:content url="https://iptopics.com/media/posts/70/il-quadrato-di-Ritter-Sport-sotto-esame.jpg" medium="image" />
+            <category term="marchi"/>
+
+        <updated>2026-01-16T09:35:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/70/il-quadrato-di-Ritter-Sport-sotto-esame.jpg" alt="Illustrazione del confronto tra confezioni quadrate di snack che simboleggia la disputa sul marchio tridimensionale, il rischio di confusione e la tutela del marchio rinomato nel caso Ritter Sport vs Monnemer Quadrat." />
+                    Marchio tridimensionale della confezione, confini della tutela e rischio di confusione Chi&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Brevetti e GenAI tra concorrenza e quiete armata</title>
         <author>
@@ -188,26 +207,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" alt="Illustrazione concettuale del patto tra industria farmaceutica e Unione Europea, con una stretta di mano simbolica tra un uomo d&#x27;affari e una figura demoniaca, sullo sfondo della mappa dell’Europa e simboli di farmaci e brevetti." />
                     Possiamo davvero accettare che la salute, bisogno primario e diritto naturale dell’uomo,&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>DNS4EU, la sovranità digitale passa da qui</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/dns4eu-la-sovranita-digitale-passa-da-qui.html"/>
-        <id>https://iptopics.com/dns4eu-la-sovranita-digitale-passa-da-qui.html</id>
-        <media:content url="https://iptopics.com/media/posts/60/DNS4EU-la-sovranita-digitale-passa-da-qui.jpg" medium="image" />
-            <category term="nuove tecnologie"/>
-            <category term="innovazione"/>
-
-        <updated>2025-06-25T20:45:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/60/DNS4EU-la-sovranita-digitale-passa-da-qui.jpg" alt="Illustrazione concettuale della sovranità digitale europea con simboli di sicurezza informatica, DNS, connessione internet e protezione dei dati, rappresentativi del progetto DNS4EU." />
-                    «Là dove si perde la sovranità, si perde anche la libertà.» —&hellip;
                 ]]>
             </summary>
         <content></content>

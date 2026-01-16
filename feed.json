@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/il-quadrato-di-ritter-sport-sotto-esame.html",
+            "url": "https://iptopics.com/il-quadrato-di-ritter-sport-sotto-esame.html",
+            "title": "Il quadrato di Ritter Sport sotto esame",
+            "summary": "Marchio tridimensionale della confezione, confini della tutela e rischio di confusione Chi&hellip;",
+            "image": "https://iptopics.com/media/posts/70/il-quadrato-di-Ritter-Sport-sotto-esame.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "marchi"
+            ],
+            "date_published": "2026-01-16T09:35:04+01:00",
+            "date_modified": "2026-01-16T10:08:37+01:00"
+        },
+        {
             "id": "https://iptopics.com/brevetti-e-genai-tra-concorrenza-e-quiete-armata.html",
             "url": "https://iptopics.com/brevetti-e-genai-tra-concorrenza-e-quiete-armata.html",
             "title": "Brevetti e GenAI tra concorrenza e quiete armata",
@@ -157,22 +172,6 @@
             ],
             "date_published": "2025-06-29T09:24:01+02:00",
             "date_modified": "2025-06-30T10:01:24+02:00"
-        },
-        {
-            "id": "https://iptopics.com/dns4eu-la-sovranita-digitale-passa-da-qui.html",
-            "url": "https://iptopics.com/dns4eu-la-sovranita-digitale-passa-da-qui.html",
-            "title": "DNS4EU, la sovranità digitale passa da qui",
-            "summary": "«Là dove si perde la sovranità, si perde anche la libertà.» —&hellip;",
-            "image": "https://iptopics.com/media/posts/60/DNS4EU-la-sovranita-digitale-passa-da-qui.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "nuove tecnologie",
-                   "innovazione"
-            ],
-            "date_published": "2025-06-25T20:45:52+02:00",
-            "date_modified": "2025-06-25T23:57:42+02:00"
         }
     ]
 }

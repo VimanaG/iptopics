@@ -3,31 +3,12 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-02-01T20:12:23+01:00</updated>
+    <updated>2026-01-16T10:38:53+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
-    <entry>
-        <title>Moltbook: il social network dove le intelligenze artificiali parlano tra loro (e gli umani osservano)</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/moltbook-il-social-network-dove-le-intelligenze-artificiali-parlano-tra-loro-e-gli-umani-osservano.html"/>
-        <id>https://iptopics.com/moltbook-il-social-network-dove-le-intelligenze-artificiali-parlano-tra-loro-e-gli-umani-osservano.html</id>
-        <media:content url="https://iptopics.com/media/posts/71/moltbook-ai-social.jpg" medium="image" />
-            <category term="intelligenza artificiale"/>
-
-        <updated>2026-02-01T18:02:22+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/71/moltbook-ai-social.jpg" alt="Moltbook, piattaforma sociale per agenti di intelligenza artificiale: IA che comunicano tra loro in un ambiente digitale futuristico." />
-                    Immaginate per un attimo un social network dove agli esseri umani è&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Il quadrato di Ritter Sport sotto esame</title>
         <author>
@@ -206,6 +187,26 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/62/infanzia-al-tempo-dell-intelligenza-artificiale.jpg" alt="Bambina seduta a un tavolo di legno in un soggiorno caldo e accogliente, concentrata su un tablet mentre grafiche digitali blu rappresentano un cervello e circuiti accanto a lei, simbolo dell’intelligenza artificiale che la accompagna." />
                     C’è un silenzio particolare che accompagna la crescita dei bambini di oggi.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Brevetti farmaceutici e il patto faustiano dell’Europa moderna</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html"/>
+        <id>https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html</id>
+        <media:content url="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" medium="image" />
+            <category term="riflessioni"/>
+            <category term="brevetti"/>
+
+        <updated>2025-06-29T09:24:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" alt="Illustrazione concettuale del patto tra industria farmaceutica e Unione Europea, con una stretta di mano simbolica tra un uomo d&#x27;affari e una figura demoniaca, sullo sfondo della mappa dell’Europa e simboli di farmaci e brevetti." />
+                    Possiamo davvero accettare che la salute, bisogno primario e diritto naturale dell’uomo,&hellip;
                 ]]>
             </summary>
         <content></content>

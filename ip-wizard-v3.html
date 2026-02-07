@@ -1,6 +1,5 @@
 <!DOCTYPE html><html lang="it"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>IP Topics — Wizard Proprietà Intellettuale</title>
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -157,11 +156,6 @@ a{color:var(--red);text-decoration:none}
 </div>
 
 <script>
-/* ===== EMAILJS CONFIG ===== */
-var EMAILJS_PUBLIC_KEY = 'KNsMwn_XXqxztKB7U';
-var EMAILJS_SERVICE_ID = 'service_lwk6s4j';
-var EMAILJS_TEMPLATE_ID = 'template_g5lwe5a';
-
 /* ===== DATA ===== */
 const STEPS = [
  {id:'welcome',type:'welcome'},
@@ -1168,14 +1162,35 @@ function sendForm(){
     wizard_summary: getWizardSummaryText()
   };
 
-  emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, templateParams, EMAILJS_PUBLIC_KEY)
-    .then(function(){
-      renderModal('success');
+  fetch("https://ip-wizard-api.vimana-grioni.workers.dev/send", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      name: name,
+      email: email,
+      phone: phone,
+      notes: notes,
+      summary: getWizardSummaryText(),
+      website: "" // lascia vuoto
     })
-    .catch(function(err){
-      console.error('EmailJS error:', err);
-      renderModal('error');
-    });
+  })
+  .then(function(res){
+    if(!res.ok) throw new Error("Invio fallito");
+    return res.json();
+  })
+  .then(function(){
+    renderModal('success');
+  })
+  .catch(function(err){
+    console.error('Send error:', err);
+    renderModal('error');
+  })
+  .finally(function(){
+    if(submitBtn){
+      submitBtn.disabled = false;
+      submitBtn.innerHTML = IC.send + ' Invia richiesta';
+    }
+  });
 }
 
 function renderModal(state){

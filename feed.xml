@@ -3,12 +3,35 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-01-16T10:38:53+01:00</updated>
+    <updated>2026-02-13T08:58:06+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Khaby Lame e la società veicolo nell’era dell’IA generativa</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/khaby-lame-e-la-societa-veicolo-nellera-dellia-generativa.html"/>
+        <id>https://iptopics.com/khaby-lame-e-la-societa-veicolo-nellera-dellia-generativa.html</id>
+        <media:content url="https://iptopics.com/media/posts/73/Khaby-Lame-e-la-societa-veicolo-nell-era-dell-IA-generativa.jpg" medium="image" />
+            <category term="nuove tecnologie"/>
+            <category term="marchi"/>
+            <category term="intelligenza artificiale"/>
+            <category term="diritto d&#x27;autore"/>
+            <category term="copyright"/>
+
+        <updated>2026-02-12T18:53:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/73/Khaby-Lame-e-la-societa-veicolo-nell-era-dell-IA-generativa.jpg" alt="Illustrazione digitale di un giovane creator con mani aperte che si dissolve in pixel e codice, mentre sullo sfondo compaiono una bilancia della giustizia e una rete neurale, simbolo del gemello digitale AI e delle implicazioni legali." />
+                    Khabane “Khaby” Lame, venticinquenne italiano di origini senegalesi, è diventato il creator&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Il quadrato di Ritter Sport sotto esame</title>
         <author>
@@ -187,26 +210,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/62/infanzia-al-tempo-dell-intelligenza-artificiale.jpg" alt="Bambina seduta a un tavolo di legno in un soggiorno caldo e accogliente, concentrata su un tablet mentre grafiche digitali blu rappresentano un cervello e circuiti accanto a lei, simbolo dell’intelligenza artificiale che la accompagna." />
                     C’è un silenzio particolare che accompagna la crescita dei bambini di oggi.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Brevetti farmaceutici e il patto faustiano dell’Europa moderna</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html"/>
-        <id>https://iptopics.com/brevetti-farmaceutici-e-il-patto-faustiano-delleuropa-moderna.html</id>
-        <media:content url="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" medium="image" />
-            <category term="riflessioni"/>
-            <category term="brevetti"/>
-
-        <updated>2025-06-29T09:24:01+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/61/Brevetti-farmaceutici-patto-faustiano-Europa-moderna.jpg" alt="Illustrazione concettuale del patto tra industria farmaceutica e Unione Europea, con una stretta di mano simbolica tra un uomo d&#x27;affari e una figura demoniaca, sullo sfondo della mappa dell’Europa e simboli di farmaci e brevetti." />
-                    Possiamo davvero accettare che la salute, bisogno primario e diritto naturale dell’uomo,&hellip;
                 ]]>
             </summary>
         <content></content>

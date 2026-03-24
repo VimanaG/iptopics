@@ -3,12 +3,32 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-02-17T15:17:06+01:00</updated>
+    <updated>2026-03-24T15:58:21+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Meta allarga il fair use: nel caso Kadrey ora il nodo è la redistribuzione dei libri piratati</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html"/>
+        <id>https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html</id>
+        <media:content url="https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg" medium="image" />
+            <category term="intelligenza artificiale"/>
+            <category term="copyright"/>
+
+        <updated>2026-03-23T17:56:37+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg" alt="Illustrazione minimalista nei toni rosso, nero, bianco e grigio: un laptop con simbolo di copyright mostra file che si duplicano e si diffondono in rete tramite frecce, mentre sullo sfondo compaiono elementi stilizzati di AI e giustizia, a rappresentare il dibattito sul fair use e la distribuzione di contenuti nel caso Meta." />
+                    Negli Stati Uniti è in corso una causa tra Meta e un&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cercando segreti di proprietà intellettuale nei file Epstein</title>
         <author>
@@ -189,25 +209,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/64/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.jpg" alt="Illustrazione simbolica con volumi dell’Enciclopedia Britannica, clessidra e profilo digitale di intelligenza artificiale, a rappresentare la disputa legale e culturale tra sapere umano e sintesi algoritmica." />
                     “Viviamo tempi in cui la tecnica non si limita più a servire&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Brevetti e “intenzione genuina” in Cina tra apertura e controllo</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html"/>
-        <id>https://iptopics.com/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.html</id>
-        <media:content url="https://iptopics.com/media/posts/63/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.jpg" medium="image" />
-            <category term="brevetti"/>
-
-        <updated>2025-08-15T08:22:04+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/63/brevetti-e-intenzione-genuina-in-cina-tra-apertura-e-controllo.jpg" alt="Illustrazione stilizzata della mappa della Cina con una serie di documenti allineati: alcuni rossi, uno dei quali dietro sbarre, seguiti da documenti grigi con segno di spunta. Simboleggia il filtraggio delle richieste di invalidazione dei brevetti da parte della CNIPA." />
-                    Chi lavora da anni nel settore della proprietà industriale sa che dietro&hellip;
                 ]]>
             </summary>
         <content></content>

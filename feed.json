@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html",
+            "url": "https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html",
+            "title": "Perché il Congresso USA indaga sui marchi della Board of Peace e sull’ufficio brevetti americano",
+            "summary": "Per capire questa storia bisogna partire da un ufficio che quasi nessuno,&hellip;",
+            "image": "https://iptopics.com/media/posts/76/il-Congresso-USA-indaga-sui-marchi-della-Board-of-Peace-e-sull-ufficio-brevetti-americano.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "riflessioni",
+                   "marchi",
+                   "brevetti",
+                   "USPTO"
+            ],
+            "date_published": "2026-03-30T14:46:20+02:00",
+            "date_modified": "2026-03-30T15:00:06+02:00"
+        },
+        {
             "id": "https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html",
             "url": "https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html",
             "title": "Meta allarga il fair use: nel caso Kadrey ora il nodo è la redistribuzione dei libri piratati",
@@ -158,22 +176,6 @@
             ],
             "date_published": "2025-09-30T20:26:28+02:00",
             "date_modified": "2025-10-02T20:15:13+02:00"
-        },
-        {
-            "id": "https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html",
-            "url": "https://iptopics.com/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.html",
-            "title": "Il tempo rubato della conoscenza nella causa Enciclopedia Britannica contro Perplexity AI ",
-            "summary": "“Viviamo tempi in cui la tecnica non si limita più a servire&hellip;",
-            "image": "https://iptopics.com/media/posts/64/il-tempo-rubato-della-conoscenza-nella-causa-enciclopedia-britannica-contro-perplexity-ai.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale",
-                   "copyright"
-            ],
-            "date_published": "2025-09-14T11:49:24+02:00",
-            "date_modified": "2025-09-14T16:59:01+02:00"
         }
     ]
 }

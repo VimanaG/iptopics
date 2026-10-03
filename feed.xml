@@ -3,12 +3,30 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-09-27T09:08:16+02:00</updated>
+    <updated>2026-10-03T09:41:50+02:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>La Voce come identità personale: il tribunale di Tokyo estende il &quot;Right of Publicity&quot; alla voce</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/la-voce-come-identita-personale-il-tribunale-di-tokyo-estende-il-right-of-publicity-alla-voce.html"/>
+        <id>https://iptopics.com/la-voce-come-identita-personale-il-tribunale-di-tokyo-estende-il-right-of-publicity-alla-voce.html</id>
+            <category term="notizie brevi"/>
+            <category term="intelligenza artificiale"/>
+
+        <updated>2026-10-03T09:41:50+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Il caso Kenjiro Tsuda e l'estensione della protezione dell'identità personale contro le&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Il Vietnam e la &quot;Strategia nazionale sulla proprietà intellettuale&quot;</title>
         <author>
@@ -180,25 +198,6 @@
                 <![CDATA[
                         <img src="https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg" alt="Illustrazione minimalista nei toni rosso, nero, bianco e grigio: un laptop con simbolo di copyright mostra file che si duplicano e si diffondono in rete tramite frecce, mentre sullo sfondo compaiono elementi stilizzati di AI e giustizia, a rappresentare il dibattito sul fair use e la distribuzione di contenuti nel caso Meta." />
                     Negli Stati Uniti è in corso una causa tra Meta e un&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Cercando segreti di proprietà intellettuale nei file Epstein</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/cercando-segreti-di-proprieta-intellettuale-nei-file-epstein.html"/>
-        <id>https://iptopics.com/cercando-segreti-di-proprieta-intellettuale-nei-file-epstein.html</id>
-        <media:content url="https://iptopics.com/media/posts/74/segreti-di-proprieta-intellettuale-nei-file-Epstein.jpg" medium="image" />
-            <category term="riflessioni"/>
-
-        <updated>2026-02-17T14:10:32+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/74/segreti-di-proprieta-intellettuale-nei-file-Epstein.jpg" alt="Archivio etichettato “Epstein Files” con documenti classificati e simboli di brevetto, marchio registrato e copyright, a rappresentare l’analisi della proprietà intellettuale nei file pubblici del Department of Justice." />
-                    Un’indagine laterale sull’orbita Epstein: tracce di brevetti, marchi e monetizzazione di brand&hellip;
                 ]]>
             </summary>
         <content></content>

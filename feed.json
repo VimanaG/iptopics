@@ -11,6 +11,52 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html",
+            "url": "https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html",
+            "title": "Londra frena sulla riforma dei brevetti essenziali",
+            "summary": "Londra ha scelto la via del pragmatismo cauto: nella risposta del 13&hellip;",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "brevetti",
+                   "SEP"
+            ],
+            "date_published": "2026-10-25T14:48:00+01:00",
+            "date_modified": "2026-10-25T14:48:00+01:00"
+        },
+        {
+            "id": "https://iptopics.com/reverse-confusion-in-salsa-ai.html",
+            "url": "https://iptopics.com/reverse-confusion-in-salsa-ai.html",
+            "title": "REVERSE CONFUSION in salsa AI",
+            "summary": "OpenAI lancia GPT‑6 Astra il 3 settembre; il 5 ottobre TradeSun la&hellip;",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "marchi",
+                   "intelligenza artificiale"
+            ],
+            "date_published": "2026-10-25T14:42:36+01:00",
+            "date_modified": "2026-10-25T14:42:36+01:00"
+        },
+        {
+            "id": "https://iptopics.com/ip-in-francia-cosa-cambia.html",
+            "url": "https://iptopics.com/ip-in-francia-cosa-cambia.html",
+            "title": "IP in Francia, cosa cambia?",
+            "summary": "Decreto 2026-576: cosa cambia per marchi e brevetti in Francia, tra privacy,&hellip;",
+            "image": "https://iptopics.com/media/posts/85/IP-in-francia.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "marchi",
+                   "brevetti"
+            ],
+            "date_published": "2026-10-25T14:36:34+01:00",
+            "date_modified": "2026-10-25T14:36:34+01:00"
+        },
+        {
             "id": "https://iptopics.com/la-voce-come-identita-personale-il-tribunale-di-tokyo-estende-il-right-of-publicity-alla-voce.html",
             "url": "https://iptopics.com/la-voce-come-identita-personale-il-tribunale-di-tokyo-estende-il-right-of-publicity-alla-voce.html",
             "title": "La Voce come identità personale: il tribunale di Tokyo estende il &quot;Right of Publicity&quot; alla voce",
@@ -119,56 +165,6 @@
             ],
             "date_published": "2026-09-15T18:38:29+02:00",
             "date_modified": "2026-09-15T18:38:29+02:00"
-        },
-        {
-            "id": "https://iptopics.com/la-cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.html",
-            "url": "https://iptopics.com/la-cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.html",
-            "title": "La Cina e il problema dei brevetti che non arrivano al mercato",
-            "summary": "Negli anni in cui ho seguito il sistema brevettuale cinese ho imparato&hellip;",
-            "image": "https://iptopics.com/media/posts/77/La-Cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "ricerca",
-                   "brevetti"
-            ],
-            "date_published": "2026-09-12T15:55:26+02:00",
-            "date_modified": "2026-09-15T16:40:29+02:00"
-        },
-        {
-            "id": "https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html",
-            "url": "https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html",
-            "title": "Perché il Congresso USA indaga sui marchi della Board of Peace e sull’ufficio brevetti americano",
-            "summary": "Per capire questa storia bisogna partire da un ufficio che quasi nessuno,&hellip;",
-            "image": "https://iptopics.com/media/posts/76/il-Congresso-USA-indaga-sui-marchi-della-Board-of-Peace-e-sull-ufficio-brevetti-americano.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "riflessioni",
-                   "marchi",
-                   "brevetti",
-                   "USPTO"
-            ],
-            "date_published": "2026-03-30T14:46:20+02:00",
-            "date_modified": "2026-03-30T15:00:06+02:00"
-        },
-        {
-            "id": "https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html",
-            "url": "https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html",
-            "title": "Meta allarga il fair use: nel caso Kadrey ora il nodo è la redistribuzione dei libri piratati",
-            "summary": "Negli Stati Uniti è in corso una causa tra Meta e un&hellip;",
-            "image": "https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "intelligenza artificiale",
-                   "copyright"
-            ],
-            "date_published": "2026-03-23T17:56:37+01:00",
-            "date_modified": "2026-03-24T15:58:21+01:00"
         }
     ]
 }

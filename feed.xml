@@ -3,12 +3,68 @@
     <title>IP topics</title>
     <link href="https://iptopics.com/feed.xml" rel="self" />
     <link href="https://iptopics.com" />
-    <updated>2026-10-03T09:41:50+02:00</updated>
+    <updated>2026-10-25T14:48:00+01:00</updated>
     <author>
         <name>Vimana Grioni</name>
     </author>
     <id>https://iptopics.com</id>
 
+    <entry>
+        <title>Londra frena sulla riforma dei brevetti essenziali</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html"/>
+        <id>https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html</id>
+            <category term="brevetti"/>
+            <category term="SEP"/>
+
+        <updated>2026-10-25T14:48:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Londra ha scelto la via del pragmatismo cauto: nella risposta del 13&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>REVERSE CONFUSION in salsa AI</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/reverse-confusion-in-salsa-ai.html"/>
+        <id>https://iptopics.com/reverse-confusion-in-salsa-ai.html</id>
+            <category term="marchi"/>
+            <category term="intelligenza artificiale"/>
+
+        <updated>2026-10-25T14:42:36+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    OpenAI lancia GPT‑6 Astra il 3 settembre; il 5 ottobre TradeSun la&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>IP in Francia, cosa cambia?</title>
+        <author>
+            <name>Vimana Grioni</name>
+        </author>
+        <link href="https://iptopics.com/ip-in-francia-cosa-cambia.html"/>
+        <id>https://iptopics.com/ip-in-francia-cosa-cambia.html</id>
+        <media:content url="https://iptopics.com/media/posts/85/IP-in-francia.jpg" medium="image" />
+            <category term="marchi"/>
+            <category term="brevetti"/>
+
+        <updated>2026-10-25T14:36:34+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://iptopics.com/media/posts/85/IP-in-francia.jpg" alt="IP in Francia, cosa cambia?" />
+                    Decreto 2026-576: cosa cambia per marchi e brevetti in Francia, tra privacy,&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>La Voce come identità personale: il tribunale di Tokyo estende il &quot;Right of Publicity&quot; alla voce</title>
         <author>
@@ -136,68 +192,6 @@
             <summary type="html">
                 <![CDATA[
                     Con l’entrata in vigore del PCT alle Bahamas, i nazionali e i&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>La Cina e il problema dei brevetti che non arrivano al mercato</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/la-cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.html"/>
-        <id>https://iptopics.com/la-cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.html</id>
-        <media:content url="https://iptopics.com/media/posts/77/La-Cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.jpg" medium="image" />
-            <category term="ricerca"/>
-            <category term="brevetti"/>
-
-        <updated>2026-09-12T15:55:26+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/77/La-Cina-e-il-problema-dei-brevetti-che-non-arrivano-al-mercato.jpg" alt="Illustrazione sul sistema dei brevetti in Cina con lampadina, documenti di brevetto e fabbrica, che rappresenta la difficoltà di trasformare le invenzioni in applicazioni industriali" />
-                    Negli anni in cui ho seguito il sistema brevettuale cinese ho imparato&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Perché il Congresso USA indaga sui marchi della Board of Peace e sull’ufficio brevetti americano</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html"/>
-        <id>https://iptopics.com/perche-il-congresso-usa-indaga-sui-marchi-della-board-of-peace-e-sullufficio-brevetti-americano.html</id>
-        <media:content url="https://iptopics.com/media/posts/76/il-Congresso-USA-indaga-sui-marchi-della-Board-of-Peace-e-sull-ufficio-brevetti-americano.jpg" medium="image" />
-            <category term="riflessioni"/>
-            <category term="marchi"/>
-            <category term="brevetti"/>
-            <category term="USPTO"/>
-
-        <updated>2026-03-30T14:46:20+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/76/il-Congresso-USA-indaga-sui-marchi-della-Board-of-Peace-e-sull-ufficio-brevetti-americano.jpg" alt="Congresso USA e ufficio brevetti americano (USPTO) sul caso Board of Peace di Trump, indagine sui marchi e tensioni politiche" />
-                    Per capire questa storia bisogna partire da un ufficio che quasi nessuno,&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Meta allarga il fair use: nel caso Kadrey ora il nodo è la redistribuzione dei libri piratati</title>
-        <author>
-            <name>Vimana Grioni</name>
-        </author>
-        <link href="https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html"/>
-        <id>https://iptopics.com/meta-allarga-il-fair-use-nel-caso-kadrey-ora-il-nodo-e-la-redistribuzione-dei-libri-piratati.html</id>
-        <media:content url="https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg" medium="image" />
-            <category term="intelligenza artificiale"/>
-            <category term="copyright"/>
-
-        <updated>2026-03-23T17:56:37+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://iptopics.com/media/posts/75/Meta-allarga-il-fair-use-nel-caso-Kadrey.jpg" alt="Illustrazione minimalista nei toni rosso, nero, bianco e grigio: un laptop con simbolo di copyright mostra file che si duplicano e si diffondono in rete tramite frecce, mentre sullo sfondo compaiono elementi stilizzati di AI e giustizia, a rappresentare il dibattito sul fair use e la distribuzione di contenuti nel caso Meta." />
-                    Negli Stati Uniti è in corso una causa tra Meta e un&hellip;
                 ]]>
             </summary>
         <content></content>

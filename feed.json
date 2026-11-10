@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://iptopics.com/lupc-cresce-e-cambia-il-calcolo-del-rischio-brevettuale.html",
+            "url": "https://iptopics.com/lupc-cresce-e-cambia-il-calcolo-del-rischio-brevettuale.html",
+            "title": "L’UPC cresce e cambia il calcolo del rischio brevettuale",
+            "summary": "I bollettini statistici che l'UPC ha diffuso a settembre e ottobre 2026&hellip;",
+            "image": "https://iptopics.com/media/posts/89/upc-cresce-cambio-calcolo-brevetti.jpg",
+            "author": {
+                "name": "Vimana Grioni"
+            },
+            "tags": [
+                   "riflessioni",
+                   "brevetti",
+                   "UPC"
+            ],
+            "date_published": "2026-11-10T16:47:07+01:00",
+            "date_modified": "2026-11-10T17:18:10+01:00"
+        },
+        {
             "id": "https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html",
             "url": "https://iptopics.com/londra-frena-sulla-riforma-dei-brevetti-essenziali.html",
             "title": "Londra frena sulla riforma dei brevetti essenziali",
@@ -150,21 +167,6 @@
             ],
             "date_published": "2026-09-15T18:47:35+02:00",
             "date_modified": "2026-09-15T18:47:35+02:00"
-        },
-        {
-            "id": "https://iptopics.com/lepo-agira-in-qualita-di-autorita-pct-per-i-richiedenti-provenienti-dalle-bahamas.html",
-            "url": "https://iptopics.com/lepo-agira-in-qualita-di-autorita-pct-per-i-richiedenti-provenienti-dalle-bahamas.html",
-            "title": "L&#x27;EPO agirà in qualità di autorità PCT per i richiedenti provenienti dalle Bahamas",
-            "summary": "Con l’entrata in vigore del PCT alle Bahamas, i nazionali e i&hellip;",
-            "author": {
-                "name": "Vimana Grioni"
-            },
-            "tags": [
-                   "notizie brevi",
-                   "EPO"
-            ],
-            "date_published": "2026-09-15T18:38:29+02:00",
-            "date_modified": "2026-09-15T18:38:29+02:00"
         }
     ]
 }
